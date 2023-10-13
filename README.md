@@ -1,1 +1,1 @@
-In summary, this RMI project establishes a simple client-server communication model where the client invokes a remote method (sayHello) on the server, and the server responds with a greeting message. The RMI infrastructure facilitates the communication between the client and server components.
+this RMI project establishes a simple client-server communication model where the client invokes a remote method (sayHello) on the server, and the server responds with a greeting message. The RMI infrastructure facilitates the communication between the client and server components.
